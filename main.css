@@ -1,0 +1,81 @@
+
+.nav-wrapper {
+    background-color: #224562;
+    color: #224562;
+    
+}
+
+.brand-logo {
+    align-items: center;
+}
+
+.sidenav-left {
+    transform: translate(-105%);
+}
+
+.sidenav {
+background-color: #224562;
+    color: #224562;
+    background-image: url(https://mdbootstrap.com/img/Photos/Others/sidenav4.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border:none;
+}
+
+
+.card-title {
+    font-weight: 400;
+}
+.card-value {
+    font-size: 26px;
+    font-weight: 100;
+}
+
+.fa-angle-up {
+    margin-right: 10px !important;
+}
+
+.fa-angle-down {
+    margin-right: 10px !important;
+}
+
+
+.time {
+    margin-left: 10px;
+}
+
+
+.chart-1 {
+    height: 370px;
+    max-width: 100%;
+    padding: 10px;
+}
+
+.chart-2 {
+    height: 370px;
+    max-width: 100%;
+    padding: 15px;
+    
+}
+
+.chart-3 {
+    height: 370px;
+    max-width: 100%;
+    padding: 15px;
+    
+}
+
+.chart-4 {
+    height: 370px;
+    max-width: 100%;
+    padding: 15px;
+    
+}
+
+.page-footer {
+    background-color: #224562;
+    color: #224562;
+}
+
+
